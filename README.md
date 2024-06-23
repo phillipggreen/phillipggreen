@@ -12,13 +12,6 @@ I'm a dedicated Quality Engineer with a passion for indie game development. Curr
   <a href="https://www.linkedin.com/in/phillipggreen/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="40" height="40"/>
   </a>
-  <a href="https://www.reddit.com/user/IcePickPhilly/" target="_blank">
-    <img src="https://www.svgrepo.com/show/349489/reddit.svg" alt="Reddit Profile" width="40" height="40"/>
-  </a>
-  <a href="https://x.com/IcePickPhilly" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter Profile" width="40" height="40"/>
-  </a>
-</p>
 
 ---
 
