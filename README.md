@@ -2,7 +2,7 @@
 
 **`Quality Engineer & Aspiring Developer`**
 
-I'm a dedicated Quality Engineer with a passion for indie game development. Currently pursuing a Bachelor's degree in Applied Computer Science at the University of Southern Mississippi, I am committed to expanding my skills and knowledge to create engaging and innovative projects. My work is built from the ground up, starting with thorough planning and design, and is focused on solving real-world problems with creative solutions. With a strong foundation in quality assurance, I bring a meticulous and detail-oriented approach to both my professional and academic endeavors.
+I'm a dedicated Quality Engineer with a passion for indie game development and web development. Currently pursuing a Bachelor's degree in Applied Computer Science at the University of Southern Mississippi, I am committed to expanding my skills and knowledge to create engaging and innovative projects. My work is built from the ground up, starting with thorough planning and design, and is focused on solving real-world problems with creative solutions. With a strong foundation in quality assurance, I bring a meticulous and detail-oriented approach to both my professional and academic endeavors.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PhilGreen-Dev)
 
@@ -11,7 +11,6 @@ I'm a dedicated Quality Engineer with a passion for indie game development. Curr
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillipggreen/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhilGreen-Dev)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/CodeByPhillip/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/IcePickPhilly)
 
@@ -50,21 +49,44 @@ I'm a dedicated Quality Engineer with a passion for indie game development. Curr
 </details>
 
 <details>
-  <summary>🎮 Indie Game Project</summary>
-  
-  - **Project Overview**: A 2D survival game currently in development, built with the Godot Engine. The game combines strategic resource management with exploration and combat in a procedurally generated world.
-  - **Technologies Used**: GDScript, Godot Engine
-  - **Role**: Lead Developer and Designer – responsible for the core game mechanics, including character movement, enemy AI, and the inventory system. Also worked on level design and procedural world generation.
-  - **Challenges Overcome**: Implemented a pathfinding algorithm for enemy AI using Godot's built-in navigation tools, optimized game performance for various devices, and developed a dynamic inventory system.
-  - **Current Status**: In the alpha stage of development, with plans to release a playable demo soon.
-  - [Repository](link-to-repo) | [Demo](link-to-demo) -- Coming Soon!
+  <summary>📝 CyberDev VS Code Theme</summary>
+
+  - **Project Overview**: A custom VS Code theme inspired by cyberpunk aesthetics, designed for developers who love a futuristic and vibrant interface.
+  - **Technologies Used**: JSON, Visual Studio Code
+  - **Features**:
+    - High contrast color scheme for better readability
+    - Custom syntax highlighting tailored for web development and scripting languages
+  - [Repository](https://github.com/PhilGreen-Dev/CyberDev)
+</details>
+
+<details>
+  <summary>📗 The Green Stack Blog</summary>
+
+  - **Project Overview**: A blog dedicated to tech enthusiasts and developers, covering topics like web development, coding best practices, and tech tutorials.
+  - **Technologies Used**: Markdown, GitHub Pages, Jekyll
+  - **Content**:
+    - Tips and tricks for writing clean and maintainable code
+    - In-depth guides on using different tech stacks
+    - Best practices for creating engaging and informative README files
+  - [Blog](https://github.com/PhilGreen-Dev/green-stack-blog)
+</details>
+
+<details>
+  <summary>📄 GitHub Resume Template</summary>
+
+  - **Project Overview**: A modern resume template hosted on GitHub Pages, showcasing a clean and professional design to highlight your skills and experience.
+  - **Technologies Used**: HTML, CSS, GitHub Pages
+  - **Features**:
+    - Responsive design for mobile and desktop viewing
+    - Easy to customize and update
+  - [Resume](https://philgreen-dev.github.io/modern-resume-theme/)
 </details>
 
 ---
 
 ### 📚 Certifications & Courses
 
--  [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/certificate/UC-db057448-f6eb-4f64-830b-6e1766f8553b/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com) - Udemy
+- [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/certificate/UC-db057448-f6eb-4f64-830b-6e1766f8553b/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com) - Udemy
 
 ---
 
