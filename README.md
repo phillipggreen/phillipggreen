@@ -56,7 +56,8 @@ I'm a dedicated Quality Engineer with a passion for indie game development and w
   - **Features**:
     - High contrast color scheme for better readability
     - Custom syntax highlighting tailored for web development and scripting languages
-  - [Repository](https://github.com/PhilGreen-Dev/CyberDev)
+  - [Repository](https://github.com/PhilGreen-Dev/cyberdev-vscode)
+  - [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=PhillipGreen.cyberdev) 
 </details>
 
 <details>
@@ -68,7 +69,8 @@ I'm a dedicated Quality Engineer with a passion for indie game development and w
     - Tips and tricks for writing clean and maintainable code
     - In-depth guides on using different tech stacks
     - Best practices for creating engaging and informative README files
-  - [Blog](https://github.com/PhilGreen-Dev/green-stack-blog)
+  - [Blog](https://philgreen-dev.github.io/developer-guides/)
+  - [Repository](https://github.com/PhilGreen-Dev/developer-guides)
 </details>
 
 <details>
@@ -80,6 +82,7 @@ I'm a dedicated Quality Engineer with a passion for indie game development and w
     - Responsive design for mobile and desktop viewing
     - Easy to customize and update
   - [Resume](https://philgreen-dev.github.io/modern-resume-theme/)
+  - [Forked](https://github.com/sproogen/modern-resume-theme)
 </details>
 
 ---
