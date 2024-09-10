@@ -97,10 +97,6 @@ If you have a project in mind, feel free to reach out! 🚀
 - 📚 A huge fan of fantasy novels, I'm especially drawn to the **Grishaverse Series**, which inspires my imagination and creativity in storytelling and game development.
 - 👨‍👩‍👧‍👦 Outside of coding and gaming, I enjoy quality time with my awesome family—my wife, who's studying to become an esthetician, and my two amazing kids who keep life exciting and adventurous!
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 ⭐️ From [PhilGreen-Dev](https://github.com/PhilGreen-Dev)
