@@ -2,7 +2,7 @@
 
 **Quality Engineer transitioning into Tech | Aspiring Indie Game Dev & Software Engineer | Dad | Husband | Nerd**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PhilGreen-Dev)
+![Visitors](https://komarev.com/ghpvc/?username=PhilGreen-Dev&color=blueviolet)
 
 I'm a passionate developer with experience in:
 - 🚀 **Game Development** (Side projects and future indie game aspirations)
@@ -11,8 +11,8 @@ I'm a passionate developer with experience in:
 
 ## 🔭 Current Projects
 
-- **[CyberDev VS Code Theme](https://marketplace.visualstudio.com/items?itemName=PhillipGreen.cyberdev)** – A Cyberpunk-themed VS Code theme.
-- **[The Green Stack - Blog](https://philgreen-dev.github.io/developer-guides/)** – Beginner Guide for all things development.
+- **[CyberDev VS Code Theme](https://marketplace.visualstudio.com/items?itemName=PhillipGreen.cyberdev)** – A sleek, Cyberpunk-inspired theme for developers who want to code in style.
+- **[The Green Stack - Blog](https://philgreen-dev.github.io/developer-guides/)** – A beginner-friendly blog covering all things web development, coding, and tech.
 
 ## 👨‍💻 Technologies & Tools
 
@@ -75,21 +75,26 @@ I'm a passionate developer with experience in:
 
 ## 🌱 I'm Currently Learning
 
-- **Bitwise Operations** and **C++ Array Manipulation** for school projects
-- Exploring **Game Development** as a side passion
-- Building **Responsive Websites** using Flexbox and CSS Grid
+- **Bitwise Operations** and **C++ Array Manipulation** for my ongoing school projects.
+- **Game Development** with Godot and Unity as part of my indie game aspirations.
+- Building **Responsive Websites** using Flexbox and CSS Grid to create dynamic, adaptable designs.
 
 ## 💼 Freelance Work
 
-I'm also working on freelance projects, building websites, logos, and marketing campaigns for small businesses through **Green Digital Solutions**.
+I'm also working on freelance projects, building websites, logos, and marketing campaigns for small businesses through **[Green Digital Solutions](https://greendigitalsolutions.dev)**.
 
 If you have a project in mind, feel free to reach out! 🚀
 
+**Connect with Green Digital Solutions:**
+- **Instagram**: [![Instagram Badge](https://img.shields.io/badge/-Green.Digital.Solutions-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/Green.Digital.Solutions)
+- **Facebook**: [![Facebook Badge](https://img.shields.io/badge/-GreenSolutionsHQ-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/GreenSolutionsHQ)
+- **LinkedIn**: [![LinkedIn Badge](https://img.shields.io/badge/-Green%20Digital%20Solutions-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/company/green-digital-solutions)
+
 ## 📫 Get in Touch
 
-- **Twitter**: [@IcePickPhilly](https://twitter.com/IcePickPhilly)
-- **LinkedIn**: [Phillip Green](https://www.linkedin.com/in/phillipggreen/)
-- **Website**: [Modern Resume](https://philgreen-dev.github.io/modern-resume-theme/)
+- **Twitter**: [![Twitter Badge](https://img.shields.io/badge/-IcePickPhilly-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/IcePickPhilly)
+- **LinkedIn**: [![LinkedIn Badge](https://img.shields.io/badge/-Phillip%20Green-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/phillipggreen/)
+- **Website**: [![Website Badge](https://img.shields.io/badge/-Modern%20Resume-0A66C2?logo=github&logoColor=white&style=flat)](https://philgreen-dev.github.io/modern-resume-theme/)
 
 ## 🎮 Fun Facts
 
