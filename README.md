@@ -15,7 +15,7 @@ Whether I’m creating sleek frontends, writing backend logic, or exploring game
 ## 🚀 What I’m Up To
 
 - 🎨 Designing my own [CyberDev VS Code Theme](https://marketplace.visualstudio.com/items?itemName=PhillipGreen.cyberdev)
-- ✍️ Writing dev guides and tutorials at [The Green Stack Blog](https://philgreen-dev.github.io/developer-guides/)
+- ✍️ Writing dev guides and tutorials at [The Green Stack Blog](https://phillipggreen.github.io/developer-guides/)
 - 🧱 Freelancing with [Green Digital Solutions](https://greendigitalsolutions.dev) — helping small businesses get online
 - 📚 Studying C++, OS design, and game development fundamentals
 
