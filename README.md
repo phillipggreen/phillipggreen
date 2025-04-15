@@ -66,9 +66,6 @@ Whether it’s crafting sleek frontends, building backend logic, or prototyping 
 I’m always open to collaborating, learning, or chatting about tech and gaming!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Phillip%20Green-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/phillipggreen/)
-[![Twitter Badge](https://img.shields.io/badge/-@IcePickPhilly-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/IcePickPhilly)
-[![Instagram Badge](https://img.shields.io/badge/-Green.Digital.Solutions-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/Green.Digital.Solutions)
-[![Resume Badge](https://img.shields.io/badge/-View%20My%20Resume-0A66C2?logo=github&logoColor=white&style=flat)](https://philgreen-dev.github.io/modern-resume-theme/)
 
 ---
 
