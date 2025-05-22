@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate self-taught developer currently earning my degree in Applied Computer Science. After years in quality engineering, I’m now building my future in software development — one project, one line of code, one lesson at a time.
+I'm a passionate developer currently earning my degree in Applied Computer Science. After years in quality engineering, I’m now building my future in software development — one project, one line of code, one lesson at a time.
 
 Whether it’s crafting sleek frontends, building backend logic, or prototyping game mechanics in Unity and Godot, I love creating things that solve problems or spark joy.
 
