@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Phillip Green
 
-**Quality Engineer transitioning into Tech | Aspiring Indie Game Dev | Full-Stack Developer | Family-First Nerd**
+**Quality Engineer transitioning into Tech | Aspiring Indie Game Dev | Full-Stack Developer**
 
 ---
 
