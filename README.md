@@ -71,9 +71,9 @@ Freelance web development focused on helping small businesses establish a profes
 
 # 📊 GitHub Activity
 
-![Phillip's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipggreen&show_icons=true&theme=tokyonight)
+![Phillip's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipggreen&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipggreen&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipggreen&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
