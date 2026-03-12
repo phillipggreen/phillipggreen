@@ -2,7 +2,7 @@
 
 **Continuous Improvement Quality Engineer III | Computer Science Student | Aspiring Software Engineer**
 
-I’m an engineer who enjoys improving systems — whether that’s manufacturing processes or software.
+I’m an engineer who enjoys improving systems — whether that's manufacturing processes or software.
 
 With a background in **continuous improvement and quality engineering**, I bring a process-driven mindset to software development: identifying inefficiencies, analyzing data, and building better solutions.
 
@@ -15,8 +15,23 @@ While working full-time in engineering, I’m earning my **B.S. in Applied Compu
 - 🎓 Completing my **B.S. in Applied Computer Science**
 - 💻 Expanding my **software development portfolio**
 - 🎨 Designing my **CyberDev VS Code Theme**
-- 🌐 Running **Green Digital Solutions** helping small businesses establish an online presence
+- 🌐 Running **Green Digital Solutions**, helping small businesses establish an online presence
 - 📊 Building tools and workflows using **SQL, Power BI, and automation platforms**
+
+---
+
+# 🔧 Engineering & Automation
+
+In my current role as a **Continuous Improvement Quality Engineer**, I regularly work with data and automation tools to improve manufacturing processes and operational visibility.
+
+Technologies I frequently use include:
+
+- SQL for manufacturing data analysis  
+- Power BI for dashboards and reporting  
+- Power Automate for workflow automation  
+- Microsoft 365 tools for process and reporting improvements  
+
+I'm particularly interested in building software that helps teams **analyze data, improve workflows, and solve real operational problems.**
 
 ---
 
@@ -51,7 +66,7 @@ While working full-time in engineering, I’m earning my **B.S. in Applied Compu
 
 ---
 
-# 🧪 Featured Work
+# 🧪 Projects & Work
 
 ## 🎨 CyberDev VS Code Theme
 
