@@ -1,19 +1,35 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=22A39F&center=true&vCenter=true&width=900&lines=Phillip+Green;Continuous+Improvement+Engineer;Computer+Science+Student;Aspiring+Software+Engineer;Building+Software+that+Improves+Real+World+Systems)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=phillipggreen&color=22a39f&style=flat)
+
+---
+
 # 👋 Hi, I'm Phillip Green
 
 **Continuous Improvement Quality Engineer III | Computer Science Student | Aspiring Software Engineer**
 
-I’m an engineer who enjoys improving systems — whether that's manufacturing processes or software.
+I’m an engineer who enjoys improving systems — whether that's **manufacturing processes or software systems**.
 
-With a background in **continuous improvement and quality engineering**, I bring a process-driven mindset to software development: identifying inefficiencies, analyzing data, and building better solutions.
+With a background in **continuous improvement and quality engineering**, I bring a **process-driven mindset to software development**: identifying inefficiencies, analyzing data, and building solutions that improve real-world operations.
 
 While working full-time in engineering, I’m earning my **B.S. in Applied Computer Science** and expanding my skills in **software development, automation, and modern development workflows.**
+
+> *Engineer turned developer building software that improves real-world systems.*
+
+---
+
+# 🌐 Portfolio
+
+🔗 **Portfolio Website**
+
+https://phillip-portfolio-phi.vercel.app/
 
 ---
 
 # 🚀 Current Focus
 
 - 🎓 Completing my **B.S. in Applied Computer Science**
-- 💻 Expanding my **software development portfolio**
+- 💻 Expanding my **software engineering portfolio**
 - 🎨 Designing my **CyberDev VS Code Theme**
 - 🌐 Running **Green Digital Solutions**, helping small businesses establish an online presence
 - 📊 Building tools and workflows using **SQL, Power BI, and automation platforms**
@@ -22,14 +38,14 @@ While working full-time in engineering, I’m earning my **B.S. in Applied Compu
 
 # 🔧 Engineering & Automation
 
-In my current role as a **Continuous Improvement Quality Engineer**, I regularly work with data and automation tools to improve manufacturing processes and operational visibility.
+In my role as a **Continuous Improvement Quality Engineer**, I regularly work with **data, automation tools, and dashboards** to improve manufacturing processes and operational visibility.
 
 Technologies I frequently use include:
 
 - SQL for manufacturing data analysis  
 - Power BI for dashboards and reporting  
 - Power Automate for workflow automation  
-- Microsoft 365 tools for process and reporting improvements  
+- Microsoft 365 tools for operational systems and reporting  
 
 I'm particularly interested in building software that helps teams **analyze data, improve workflows, and solve real operational problems.**
 
@@ -38,41 +54,39 @@ I'm particularly interested in building software that helps teams **analyze data
 # 🧰 Technical Skills
 
 ## Programming
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp)
 
 ## Web Development
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 
-## Data & Automation
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white&style=flat)
-![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-D83B01?logo=microsoftoffice&logoColor=white&style=flat)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
 
 ## Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ## Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Docker](https://skillicons.dev/icons?i=docker)
 
 ---
 
-# 🧪 Projects & Work
+# 🧪 Featured Projects
 
 ## 🎨 CyberDev VS Code Theme
 
-A cyberpunk-inspired Visual Studio Code theme designed to create a clean and immersive development environment.
+A cyberpunk-inspired **Visual Studio Code theme** designed to create a clean and immersive development environment.
 
-🔗 https://github.com/phillipggreen/cyberdev-vscode
+[![CyberDev Theme](https://github-readme-stats.vercel.app/api/pin/?username=phillipggreen&repo=cyberdev-vscode&theme=tokyonight)](https://github.com/phillipggreen/cyberdev-vscode)
 
 ---
 
@@ -81,6 +95,37 @@ A cyberpunk-inspired Visual Studio Code theme designed to create a clean and imm
 Freelance web development focused on helping small businesses establish a professional online presence.
 
 🔗 https://greendigitalsolutions.dev
+
+---
+
+# 🛠 Currently Building
+
+### Abide – Group Bible Study Platform
+
+A full-stack web application designed to help small groups study scripture together, track progress, and share reflections.
+
+**Tech Stack**
+
+- Next.js  
+- Supabase  
+- PostgreSQL  
+- Tailwind CSS  
+
+---
+
+# 📊 GitHub Stats
+
+![Phillip's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipggreen&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipggreen&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=phillipggreen&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/phillipggreen/phillipggreen/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -99,3 +144,7 @@ I'm always open to connecting with developers, engineers, and people interested 
 - 📊 Data-driven problem solving
 - ⚙️ Process improvement & automation
 - 📚 Lifelong learning
+
+---
+
+⭐ *“Great systems aren't built by accident — they're engineered through iteration.”*
