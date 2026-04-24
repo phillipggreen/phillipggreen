@@ -112,7 +112,7 @@ STATUS ────────────────────────�
 [✓] Build first client roster
 [ ] Ship Abide v1.0
 [ ] Complete B.S. in Applied Computer Science
-[ ] Release CyberDev Theme publicly
+[✓] Release CyberDev Theme publicly
 [ ] Grow GDS to 10 active clients
 ```
 
