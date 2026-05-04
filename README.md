@@ -1,189 +1,72 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3000&pause=800&color=22A39F&center=true&vCenter=true&width=900&lines=Phillip+Green;Engineer+%E2%86%92+Developer;CI+Engineer+III+%2F%2F+Factory+Floor+%E2%86%92+Six+Figures;Founder+%40+Green+Digital+Solutions;Building+software+the+same+way+I+built+my+career.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=22A39F&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Phillip+%F0%9F%91%8B;I+build+websites+for+small+businesses.;Got+a+project+in+mind%3F+Let's+talk.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phillipggreen&color=22a39f&style=flat-square&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-22A39F?style=flat-square" />
-  <img src="https://img.shields.io/badge/OPEN_TO-FREELANCE-22A39F?style=flat-square" />
+  <a href="https://greendigitalsolutions.dev"><img src="https://img.shields.io/badge/greendigitalsolutions.dev-22A39F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:phil@greendigitalsolutions.dev"><img src="https://img.shields.io/badge/Email_Me-22A39F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/green.digital.solutions"><img src="https://img.shields.io/badge/@green.digital.solutions-22A39F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
------
+---
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  PHILLIP GREEN                                               ║
-║  Continuous Improvement Engineer III  →  Full-Stack Dev      ║
-║  B.S. Applied Computer Science  //  In Progress             ║
-║  Founder @ Green Digital Solutions                           ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## Hey, I'm Phillip.
 
-## `> WHO I AM`
+I'm a full-stack web developer and founder of **[Green Digital Solutions](https://greendigitalsolutions.dev)** — a small web studio focused on building clean, fast, and professional websites for small businesses that are ready to take their online presence seriously.
 
-I didn’t take the easy road here.
+My background is in **continuous improvement engineering** — I spent years on factory floors optimizing systems, reducing waste, and solving real operational problems. I bring that same mindset to every web project I take on. I don't just build sites that look nice; I build sites that *work*.
 
-I planned to retire from the military. An injury changed that. So I started over as a temp assembler on a factory floor in 2014. No shortcuts, no connections, just work. I spent the next decade learning every system I could touch, moving from the line to Quality Engineering, and eventually into a CI role I earned through relentless iteration.
+---
 
-That same drive is what I bring to software.
+## What I Build
 
-I think in **systems**. I measure what matters. I don’t stop at “good enough” — I stop when it *works*. My engineering background isn’t a career footnote. It’s the reason I build the way I do.
+Here's a look at some of the projects I've built and managed:
 
-> *Process-driven. Data-minded. Always iterating.*
+| Project | Type | Stack | Status |
+|---|---|---|---|
+| [Abide](https://abideapp.faith) | Group Bible Study App | Next.js, Supabase, Tailwind | Open Beta |
+| [Berea Golf Club](https://bereagolfclub.com) | Golf Course Website & Admin | Next.js, Supabase, Tailwind | Live |
+| [The Little Cottage Market](https://thelittlecottagemarket.com) | Bakery Website & Pre-Order System | Next.js, Supabase, Tailwind | Live |
+| [KRM NXT MOD](https://krmnxtmod.com) | eCommerce — Golf Cart Parts | Shopify | Live ($600k+ sales) |
+| [Green Digital Solutions](https://greendigitalsolutions.dev) | Studio Website | Next.js, Tailwind | Live |
 
------
+---
 
-## `> GREEN DIGITAL SOLUTIONS`
+## Who I Work With
 
-**Freelance web development for small businesses that deserve a serious online presence.**
+I work best with **small businesses, local brands, and solo founders** who need a real website — not a template that looks like everyone else's.
 
-Most web developers understand design. I understand *operations* — how businesses actually run, where the friction is, and what a website needs to do to move the needle. That’s the difference.
+Whether you need something built from scratch, a fresh start on an existing site, or ongoing development support, I'd love to hear what you're working on.
 
-🌐 **[greendigitalsolutions.dev](https://greendigitalsolutions.dev)**
+**Not sure if I'm the right fit?** Take a look at [my work](https://greendigitalsolutions.dev) and reach out. Worst case, I point you in the right direction.
 
-**What I build:**
+---
 
-- Custom websites & full-stack web apps
-- Performance-optimized builds (React, Next.js, Tailwind)
-- Small business digital strategy & online presence
-- Ongoing maintenance & support
+## Open to Collaboration
 
-> *Currently accepting new clients. Let’s talk.*
+If you're a developer, designer, or creator working on something interesting, I'm always open to connecting. I enjoy building in public, learning from others, and occasionally teaming up on projects that are worth building.
 
------
+Find me here:
+- 🌐 [greendigitalsolutions.dev](https://greendigitalsolutions.dev)
+- 📸 [@green.digital.solutions](https://instagram.com/green.digital.solutions) on Instagram
+- 📬 phillip@greendigitalsolutions.dev
 
-## `> CLIENT WORK`
+---
 
-### KRMNXTMOD — Golf cart Modifications
+## My Stack
 
-> *Custom web presence for an aftermarket automotive brand*
+The tools I reach for most:
 
-Built a clean, high-performance site tailored to a niche audience that demands authenticity. Focused on fast load times, clear product presentation, and a visual identity that fits the market.
-
-🔗 **[KrmNxtMod.com](https://krmnxtmod.com)**
-
------
-
-## `> ACTIVE BUILDS`
-
-### `[01]` Abide — Group Bible Study Platform
-
-> *Full-stack web app for small groups to study scripture together*
-
-A platform built around the belief that community makes faith stronger. Abide helps small groups organize studies, track progress, and share reflections — with a clean, distraction-free interface built for focus. Currently in **Open Beta**.
-
-```
-STACK ──────────────────────────────────
-  Framework   →  Next.js
-  Database    →  PostgreSQL (Supabase)
-  Styling     →  Tailwind CSS
-  Auth        →  Supabase Auth
-STATUS ─────────────────────────────────
-  Phase       →  Open Beta
-```
-
------
-
-### `[02]` CyberDev — VS Code Theme
-
-> *A cyberpunk-inspired theme built for long sessions and sharp focus*
-
-[![CyberDev Theme](https://github-readme-stats.vercel.app/api/pin/?username=phillipggreen&repo=cyberdev-vscode&theme=tokyonight&border_color=22A39F)](https://github.com/phillipggreen/cyberdev-vscode)
-
------
-
-## `> TECHNICAL STACK`
-
-**Languages**
-
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-
-**Web & Frameworks**
-
-![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-**Databases & Backend**
-
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
-
-**Engineering Stack** *(Data & Automation)*
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-22A39F?style=flat-square&logo=postgresql&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-
-**Tooling**
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Docker](https://skillicons.dev/icons?i=docker)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
------
-
-## `> CURRENT OBJECTIVES`
-
-```
-[✓] Launch Green Digital Solutions
-[✓] Build first client roster
-[✓] Release CyberDev Theme publicly
-[~] Ship Abide v1.0  //  Open Beta
-[ ] Complete B.S. in Applied Computer Science
-[ ] Grow GDS to 10 active clients
-```
-
------
-
-## `> STATS`
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phillipggreen&show_icons=true&count_private=true&theme=tokyonight&border_color=22A39F&title_color=22A39F" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillipggreen&layout=compact&theme=tokyonight&border_color=22A39F&title_color=22A39F" width="48%" />
+  <i>Built with care. Shipped with intention.</i><br/>
+  <a href="https://greendigitalsolutions.dev">greendigitalsolutions.dev</a>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=phillipggreen&theme=tokyonight&border=22A39F&ring=22A39F&fire=22A39F" width="60%" />
-</p>
-
------
-
-## `> CONTRIBUTION GRID`
-
-![Snake animation](https://raw.githubusercontent.com/phillipggreen/phillipggreen/output/github-contribution-grid-snake-dark.svg)
-
------
-
-## `> CONNECT`
-
-<p>
-  <a href="https://www.linkedin.com/in/phillipggreen/">
-    <img src="https://img.shields.io/badge/LinkedIn-Phillip_Green-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://greendigitalsolutions.dev">
-    <img src="https://img.shields.io/badge/Website-greendigitalsolutions.dev-22A39F?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://phillip-portfolio-phi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-22A39F?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-I’m open to connecting with developers, engineers, potential clients, and anyone who appreciates the work that goes into building something right. If you have a project that needs building — or a system that needs fixing — let’s talk.
-
------
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  I didn't get here by accident.                              ║
-║  I got here by not stopping.                                 ║
-╚══════════════════════════════════════════════════════════════╝
-```
