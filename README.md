@@ -2,14 +2,13 @@
 
 # Phillip Green
 
-### Full-Stack Developer · Quality Engineer · Founder
+### Software engineer & independent builder
 
 I build software, websites, and systems that solve real problems.
 
-[![Website](https://img.shields.io/badge/Green_Digital_Solutions-22A39F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.greendigitalsolutions.dev/)
-[![Portfolio](https://img.shields.io/badge/View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.greendigitalsolutions.dev/portfolio)
-[![Email](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phillip@greendigitalsolutions.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/green.digital.solutions)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phillip@phillipgreen.dev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phillipggreen)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phillipggreen)
 
 </div>
 
@@ -17,7 +16,7 @@ I build software, websites, and systems that solve real problems.
 
 ## 👋 About Me
 
-I'm **Phillip Green**, a full-stack developer, Quality Engineer, and founder of **[Green Digital Solutions](https://www.greendigitalsolutions.dev/)** in Kentucky.
+I'm **Phillip Green**, a software engineer and independent builder based in Kentucky, and a Continuous Improvement Quality Engineer in manufacturing.
 
 My background sits at the intersection of **software development, engineering, and continuous improvement**.
 
@@ -31,7 +30,6 @@ I care about clean interfaces, sensible architecture, maintainable code, and bui
 
 **Developer** → Next.js, React, TypeScript, APIs, databases  
 **Engineer** → Quality, systems thinking, continuous improvement  
-**Founder** → Green Digital Solutions  
 **Builder** → Client platforms, internal tools, ecommerce & SaaS-style apps
 
 ---
@@ -45,6 +43,20 @@ I care about clean interfaces, sensible architecture, maintainable code, and bui
 A product I'm building to give small groups a better way to study Scripture, share prayer requests, discuss studies, and stay connected throughout the week.
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS`
+
+---
+
+### 🤖 [aiagentsetups.com](https://aiagentsetups.com)
+
+**Curated directory of real AI agent and multi-agent setups**
+
+`Next.js` `TypeScript` `Tailwind` `Vercel`
+
+---
+
+### 🌃 [cyberdev-vscode](https://github.com/phillipggreen/cyberdev-vscode)
+
+**MIT-licensed cyberpunk VS Code theme**
 
 ---
 
@@ -154,24 +166,7 @@ It's the same mindset whether I'm troubleshooting a manufacturing process or des
 
 ---
 
-## 🏢 Green Digital Solutions
-
-I founded **[Green Digital Solutions](https://www.greendigitalsolutions.dev/)** to help small businesses move beyond generic template websites and build something better suited to the way their business actually works.
-
-The studio focuses on:
-
-- Custom website development
-- Full-stack web applications
-- Business systems & internal tools
-- Ecommerce
-- API integrations
-- Database-backed applications
-- Website redesigns & migrations
-- Ongoing development and technical support
-
-I stay intentionally hands-on with every project — from planning and architecture through development, deployment, and ongoing improvements.
-
-**→ [See my portfolio](https://www.greendigitalsolutions.dev/portfolio)**
+Green Digital Solutions — custom websites, full-stack web applications, business systems, ecommerce, and API integrations.
 
 ---
 
@@ -189,8 +184,6 @@ That combination has shaped how I approach software: not simply as code that nee
 
 ### Build useful things. Solve real problems.
 
-**[greendigitalsolutions.dev](https://www.greendigitalsolutions.dev/)**
-
-<sub>Developer · Engineer · Founder</sub>
+<sub>Software engineer · Independent builder</sub>
 
 </div>
